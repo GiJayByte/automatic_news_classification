@@ -1,0 +1,5 @@
+Model,Condition,Accuracy,Macro F1
+Standard DistilBERT,Clean validation,0.9469166666666666,0.9469449607897504
+Standard DistilBERT,Typo-corrupted validation,0.94375,0.9438122120467344
+Augmented DistilBERT,Clean validation,0.9451666666666667,0.9451633533471453
+Augmented DistilBERT,Typo-corrupted validation,0.9439166666666666,0.9439192824756515

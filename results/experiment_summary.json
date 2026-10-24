@@ -1,0 +1,17 @@
+{
+  "dataset": "AG News",
+  "labels": [
+    "World",
+    "Sports",
+    "Business",
+    "Sci/Tech"
+  ],
+  "train_samples": 108000,
+  "validation_samples": 12000,
+  "test_samples": 7600,
+  "seed": 42,
+  "standard_distilbert_test_accuracy": 0.9478947368421052,
+  "standard_distilbert_test_macro_f1": 0.9479540891716122,
+  "standard_training_seconds": 1106.2329242229462,
+  "augmented_training_seconds": 742.9581072330475
+}
