@@ -1,0 +1,16 @@
+{
+  "registration_number": "2430010355",
+  "dataset": "fancyzhx/ag_news",
+  "labels": [
+    "World",
+    "Sports",
+    "Business",
+    "Sci/Tech"
+  ],
+  "seed": 42,
+  "train_samples": 108000,
+  "validation_samples": 12000,
+  "test_samples": 7600,
+  "main_model": "DistilBERT",
+  "environment": "Google Colab T4"
+}
